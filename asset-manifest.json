@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jinyooo-website/static/css/main.e46eab8c.css",
-    "main.js": "/jinyooo-website/static/js/main.1f6e3733.js",
+    "main.js": "/jinyooo-website/static/js/main.10c91853.js",
     "static/js/787.385640b7.chunk.js": "/jinyooo-website/static/js/787.385640b7.chunk.js",
     "static/media/DungGeunMo.ttf": "/jinyooo-website/static/media/DungGeunMo.1ebba65b2b010a1e45d7.ttf",
     "static/media/tripA-main.png": "/jinyooo-website/static/media/tripA-main.de12897b02ac84ddbbe4.png",
@@ -38,11 +38,11 @@
     "static/media/dollar.svg": "/jinyooo-website/static/media/dollar.2bd6938e758c1cc1d8ca9327f2ba8662.svg",
     "index.html": "/jinyooo-website/index.html",
     "main.e46eab8c.css.map": "/jinyooo-website/static/css/main.e46eab8c.css.map",
-    "main.1f6e3733.js.map": "/jinyooo-website/static/js/main.1f6e3733.js.map",
+    "main.10c91853.js.map": "/jinyooo-website/static/js/main.10c91853.js.map",
     "787.385640b7.chunk.js.map": "/jinyooo-website/static/js/787.385640b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e46eab8c.css",
-    "static/js/main.1f6e3733.js"
+    "static/js/main.10c91853.js"
   ]
 }
